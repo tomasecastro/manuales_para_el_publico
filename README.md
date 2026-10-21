@@ -4,7 +4,7 @@ Repositorio público de manuales técnicos.
 
 ## Índice de manuales
 
-- [Instalación AirLLM en Windows 11](manuales/Manual_Instalacion_AirLLM_Windows11.md)
+- [Instalación AirLLM en Windows 11](Manual_Instalacion_AirLLM_Windows11.md)
 
 ## Cómo contribuir
 Los manuales se mantienen en Markdown. Cada manual debe contener:
