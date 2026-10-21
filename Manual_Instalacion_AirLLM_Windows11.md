@@ -1,5 +1,8 @@
 # Manual de instalación y ejecución de AirLLM
 
+# ESTADO SOLO PARA INFORAMCION, LA EJECUCION ES MUY LENTA, SE RECOMIENDA PACIENCIA
+# no se recomienda para programar.
+
 ## 1. Instalación inicial (solo la primera vez)
 
 ```powershell
